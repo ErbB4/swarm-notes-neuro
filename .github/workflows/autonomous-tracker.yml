@@ -8,7 +8,7 @@ on:
       config_file:
         description: "Path to the configuration file (e.g., configs/config.ts.yaml)"
         required: false
-        default: "configs/config.ts.yaml"
+        default: "configs/config.neuro.yaml"
 
 permissions:
   contents: write
