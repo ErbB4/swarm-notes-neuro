@@ -1,12 +1,13 @@
 ---
 created_at: '2026-05-03T06:02:20Z'
 generated_stub: true
-modified_at: '2026-05-15T06:14:49Z'
+modified_at: '2026-05-17T06:06:57Z'
 processed_at: '2026-05-03T06:02:20Z'
 slug: agentic-time-series-forecasting
 source_papers:
 - '[[openalex-260427840-castflow-learning-role-specialized-agentic-workflows-for-tim]]'
 - '[[openalex-260512375-agent-based-post-hoc-correction-of-agricultural-yield-foreca]]'
+- '[[openalex-260514389-nexus-an-agentic-framework-for-time-series-forecasting]]'
 title: Agentic Time Series Forecasting
 type: concept
 ---
@@ -30,3 +31,4 @@ It shifts the LLM forecasting paradigm from static, one-shot inference to iterat
 
 - [[openalex-260427840-castflow-learning-role-specialized-agentic-workflows-for-tim]]
 - [[openalex-260512375-agent-based-post-hoc-correction-of-agricultural-yield-foreca]]
+- [[openalex-260514389-nexus-an-agentic-framework-for-time-series-forecasting]]
