@@ -27,8 +27,8 @@ concept_slugs:
 dataset_slugs:
   []
 skill: "TimeSeriesSkill"
-processed_at: "2026-05-22T06:24:46Z"
-created_at: "2026-05-22T06:24:46Z"
+processed_at: "2026-05-23T06:04:18Z"
+created_at: "2026-05-23T06:04:18Z"
 ---
 
 # Unifying concepts in information-theoretic time-series analysis
@@ -39,13 +39,13 @@ created_at: "2026-05-22T06:24:46Z"
 
 ## Summary
 
-This paper addresses the fragmentation within information-theoretic time-series analysis by establishing a unified framework with consistent terminology and mathematical notation. By mapping various metrics into a shared conceptual space, the authors clarify the relationships between concepts like signal complexity and information flow across domains. The work provides a structured resource for researchers, exemplified through a case study on functional magnetic resonance imaging data to demonstrate practical interpretability and methodological integration.
+This paper addresses the fragmentation in information-theoretic time-series analysis by unifying disparate measures used across disciplines like physics, neuroscience, and finance. Through the standardization of mathematical notation and semantic definitions, the authors map these measures onto a common conceptual space. They illustrate the framework's effectiveness by applying it to fMRI data, showing how diverse measures collectively quantify signal complexity and information flow in complex systems. The work aims to improve accessibility, reproducibility, and interdisciplinary communication in the field of information-theoretic data analysis.
 
 ## Key Contributions
 
-- Introduces a unified semantic and mathematical framework for disparate information-theoretic measures used in time-series analysis.
-- Maps diverse information-theoretic metrics onto a common conceptual space to clarify relationships between complexity, uncertainty, and dynamical structure.
-- Demonstrates the application of the framework through a case study using functional magnetic resonance imaging (fMRI) data to characterize neural dynamics.
+- Provides a unified framework for information-theoretic time-series measures by standardizing notation and mathematical definitions.
+- Maps fragmented information-theoretic measures into a common conceptual space to enhance cross-disciplinary methodological integration.
+- Demonstrates the practical utility of the unified framework through a case study on functional magnetic resonance imaging (fMRI) data in neuroscience.
 
 ## Links
 
